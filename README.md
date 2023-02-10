@@ -11,7 +11,7 @@
 
     2. EDA를 위한 흡연여부별 생체지표 데이터 시각화(matplotlib,plotly 라이브러리)
    
-    3. 서포트 벡터 머신 분석(SVC,GridSearchCV,seaborn.heatmap 라이브러리)
+    3. 서포트 벡터 머신 분석 및 성능 지표 개선(sklearn,seaborn 라이브러리)
 
 ## 링크
 - [프로젝트 진행 코드 폴더](https://github.com/JungHunL22/Smoking-ML-PJT/tree/master/%EC%A7%84%ED%96%89%EC%BD%94%EB%93%9C)
